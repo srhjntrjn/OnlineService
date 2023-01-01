@@ -1,1 +1,1 @@
-include ('trabaho-center/index.html');
+include 'trabaho-center/index.html';
